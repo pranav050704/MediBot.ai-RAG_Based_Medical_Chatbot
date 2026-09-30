@@ -1,0 +1,9 @@
+streamlit
+numpy
+sentence-transformers
+PyPDF2
+python-dotenv
+groq
+pillow
+pytesseract
+tqdm
